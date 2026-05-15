@@ -1,4 +1,4 @@
-
+VyprVPN automatic Client: server-locations & dedicated-IP is the best VyprVPN client, featuring server-locations and dedicated-IP. Secure, fast, and optimized for privacy.
 
 
 
